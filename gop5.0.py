@@ -188,38 +188,38 @@ try:
 		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/11.LOC%20PROXY.html')
 		exec(response.text)
 	elif chon == 12 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/12.locprxnewHT.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/12.buff%20view%2Ctym%2C..%20tiktok.py')
 		exec(response.text)
 	elif chon == 13 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/13.Get%20Cookie%20Pro5%20Facebook.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/13.Get%20Cookie%20Pro5%20Facebook.py')
 		exec(response.text)
 	elif chon == 14:
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/14.nuoiFb736423.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/14.Reg%20Page%20Pro5.py')
 		exec(response.text)
 	elif chon == 15 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/15.sharefb.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/15.sharefb.py')
 		exec(response.text)
 	elif chon == 16 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/16.Reg%20Page%20Pro5.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/16.Reg%20Page%20Pro5.py')
 		exec(response.text)
 	elif chon == 16.1:
 		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/16.1.reg_pro5.HT.33668899.php')
 		exec(response.text)
 
 	elif chon == 17 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/17.T%C4%82NG%20SHARE%20TOKEN.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/17.T%C4%82NG%20SHARE%20TOKEN.py')
 		exec(response.text)
 	elif chon == 18 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/18.Buff%20View%20Story%20Max%20Speed%20Pro5.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/18.Buff%20View%20Story%20Max%20Speed%20Pro5.pyl')
 		exec(response.text)
 	elif chon == 18.1 :
 		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/18.1.TOOL%20CHUY%E1%BB%82N%20QUY%E1%BB%80N%20QU%E1%BA%A2N%20TR%E1%BB%8A%20VI%C3%8AN%20PRO5.html')
 		exec(response.text)
 	elif chon == 19 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/19.spamv5.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/spamv5.py')
 		exec(response.text)
 	elif chon == 20 :
-		response = requests.get('https://hieutoolsuocecodepython.000webhostapp.com/20.spamv6.html')
+		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/spamv6.py')
 		exec(response.text)
 	elif chon == 21 :
 		response = requests.get('https://raw.githubusercontent.com/ht2083927493/tool/main/golikev1.py')
