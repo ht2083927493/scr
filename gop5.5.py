@@ -76,7 +76,7 @@ def info():
         print(rainbow_text("╚═══════════════════════════════════════════╝"))
 
 clear()
-# banner()
+banner()
 print("\033[1;31m────────────────────────────────────────────────────────────")
 info()
 
@@ -161,5 +161,5 @@ try:
         else :
             os.system("termux-open-url https://www.youtube.com/@hieutool248") 
     else:exit()
-except Exception as a:
-    print(a)        
+except:
+	print("\033[1;31m"'''Kiểm Tra kết nối mạng hoặc sever chứa tool đang có lỗi''') 
